@@ -1,0 +1,10 @@
+{
+  "name": "STOBE",
+  "description": "Smart Tab Organizer Browser Extension",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "images/icon-48.png"
+  }
+}
